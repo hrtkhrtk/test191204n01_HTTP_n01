@@ -1,9 +1,11 @@
 package test.test191204n01_http_n01
 
 import android.net.Uri
-import android.support.v7.app.AppCompatActivity
+//import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.support.v4.app.Fragment
+//import androidx.core.app.Fragment
+import androidx.fragment.app.Fragment
 import android.util.Log
 import jp.pay.android.Task
 import jp.pay.android.model.Token
